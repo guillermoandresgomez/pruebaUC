@@ -1,2 +1,2 @@
 # pruebaUC
-Repositorio Diseño Desarrollo Web
+Clon de la página de Ingeniería de Software de UCompensar - Proyecto académico
